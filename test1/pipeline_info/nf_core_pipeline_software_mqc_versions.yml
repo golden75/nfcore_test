@@ -1,0 +1,9 @@
+FASTP:
+  fastp: 0.23.4
+FASTQC_RAW:
+  fastqc: 0.12.1
+FASTQC_TRIM:
+  fastqc: 0.12.1
+Workflow:
+    nf-core/nfcoretest: v1.0dev
+    Nextflow: 24.04.4
