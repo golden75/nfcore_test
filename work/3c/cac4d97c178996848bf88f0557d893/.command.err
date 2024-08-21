@@ -1,0 +1,58 @@
+Unable to find image 'quay.io/biocontainers/fastp:0.23.4--h5f740d0_0' locally
+0.23.4--h5f740d0_0: Pulling from biocontainers/fastp
+c1a16a04cedd: Already exists
+4ca545ee6d5d: Already exists
+b563661fdac4: Pulling fs layer
+b563661fdac4: Verifying Checksum
+b563661fdac4: Download complete
+b563661fdac4: Pull complete
+Digest: sha256:b635334b6bb25eba14d0b8c240a45a51234984247d79715f8cd0b7959df850c2
+Status: Downloaded newer image for quay.io/biocontainers/fastp:0.23.4--h5f740d0_0
+Detecting adapter sequence for read1...
+>Illumina TruSeq Adapter Read 1
+AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
+
+Detecting adapter sequence for read2...
+No adapter detected for read2
+
+Read1 before filtering:
+total reads: 241398
+total bases: 60590898
+Q20 bases: 60590898(100%)
+Q30 bases: 60590898(100%)
+
+Read2 before filtering:
+total reads: 241398
+total bases: 60590898
+Q20 bases: 60590898(100%)
+Q30 bases: 60590898(100%)
+
+Read1 after filtering:
+total reads: 239920
+total bases: 54522336
+Q20 bases: 54522336(100%)
+Q30 bases: 54522336(100%)
+
+Read2 after filtering:
+total reads: 239920
+total bases: 54599443
+Q20 bases: 54599443(100%)
+Q30 bases: 54599443(100%)
+
+Filtering result:
+reads passed filter: 479840
+reads failed due to low quality: 0
+reads failed due to too many N: 66
+reads failed due to too short: 2890
+reads with adapter trimmed: 153231
+bases trimmed due to adapters: 11374860
+
+Duplication rate: 0.0053853%
+
+Insert size peak (evaluated by paired-end reads): 245
+
+JSON report: test2.fastp.json
+HTML report: test2.fastp.html
+
+fastp --in1 test2_1.fastq.gz --in2 test2_2.fastq.gz --out1 test2_1.fastp.fastq.gz --out2 test2_2.fastp.fastq.gz --json test2.fastp.json --html test2.fastp.html --thread 6 --detect_adapter_for_pe 
+fastp v0.23.4, time used: 26 seconds

@@ -1,0 +1,11 @@
+[2024-08-21 17:58:51,543] multiqc.config                                     [INFO   ]  Loading config settings from: multiqc_config.yml
+[2024-08-21 17:58:52,105] multiqc.core.version_check                         [WARNING]  MultiQC Version v1.24.1 now available!
+[2024-08-21 17:58:52,107] multiqc.core.file_search                           [INFO   ]  Search path: /workspace/nf-core-nfcoretest/work/3b/57cfc62db45e45e0077eb37299c889
+[2024-08-21 17:58:52,195] multiqc.modules.custom_content.custom_content      [INFO   ]  nf-core-nfcoretest-summary: Found 1 sample (html)
+[2024-08-21 17:58:52,196] multiqc.modules.custom_content.custom_content      [INFO   ]  nf-core-nfcoretest-methods-description: Found 1 sample (html)
+[2024-08-21 17:58:52,202] multiqc.modules.fastp.fastp                        [INFO   ]  Found 2 reports
+[2024-08-21 17:58:52,331] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 8 reports
+[2024-08-21 17:59:34,458] multiqc.core.write_results                         [INFO   ]  Data        : multiqc_data
+[2024-08-21 17:59:34,854] multiqc.core.write_results                         [INFO   ]  Report      : multiqc_report.html
+[2024-08-21 17:59:34,917] multiqc.core.write_results                         [INFO   ]  Plots       : multiqc_plots
+[2024-08-21 17:59:34,925] multiqc.multiqc                                    [INFO   ]  MultiQC complete

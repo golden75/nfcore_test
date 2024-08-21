@@ -1,0 +1,9 @@
+Sample	Unique Reads	Duplicate Reads
+test1_raw_1	563149	322156
+test1_raw_2	570743	314562
+test1_trim_1	559964	320972
+test1_trim_2	566886	314050
+test2_raw_1	229479	11919
+test2_raw_2	232447	8951
+test2_trim_1	229475	10445
+test2_trim_2	232019	7901

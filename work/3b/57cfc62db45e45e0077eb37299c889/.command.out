@@ -1,0 +1,16 @@
+
+/// MultiQC 🔍 v1.22.3
+
+            config | Loading config settings from: multiqc_config.yml
+     version_check | MultiQC Version v1.24.1 now available!
+       file_search | Search path: /workspace/nf-core-nfcoretest/work/3b/57cfc62db45e45e0077eb37299c889
+
+    custom_content | nf-core-nfcoretest-summary: Found 1 sample (html)
+    custom_content | nf-core-nfcoretest-methods-description: Found 1 sample (html)
+             fastp | Found 2 reports
+            fastqc | Found 8 reports
+
+     write_results | Data        : multiqc_data
+     write_results | Report      : multiqc_report.html
+     write_results | Plots       : multiqc_plots
+           multiqc | MultiQC complete

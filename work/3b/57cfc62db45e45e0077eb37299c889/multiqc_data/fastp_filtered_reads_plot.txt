@@ -1,0 +1,3 @@
+Sample	Passed Filter	Low Quality	Too Many N	Too Short
+test1	1761872	8332	406	0
+test2	479840	0	66	2890

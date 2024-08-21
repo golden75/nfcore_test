@@ -1,0 +1,11 @@
+Module	Section	Sample Name	Source
+fastp	all_sections	test2	/workspace/nf-core-nfcoretest/work/3b/57cfc62db45e45e0077eb37299c889/8/test2.fastp.json
+fastp	all_sections	test1	/workspace/nf-core-nfcoretest/work/3b/57cfc62db45e45e0077eb37299c889/9/test1.fastp.json
+FastQC	all_sections	test1_trim_2	/workspace/nf-core-nfcoretest/work/3b/57cfc62db45e45e0077eb37299c889/13/test1_trim_2_fastqc.zip
+FastQC	all_sections	test2_raw_1	/workspace/nf-core-nfcoretest/work/3b/57cfc62db45e45e0077eb37299c889/4/test2_raw_1_fastqc.zip
+FastQC	all_sections	test1_trim_1	/workspace/nf-core-nfcoretest/work/3b/57cfc62db45e45e0077eb37299c889/12/test1_trim_1_fastqc.zip
+FastQC	all_sections	test2_raw_2	/workspace/nf-core-nfcoretest/work/3b/57cfc62db45e45e0077eb37299c889/5/test2_raw_2_fastqc.zip
+FastQC	all_sections	test1_raw_1	/workspace/nf-core-nfcoretest/work/3b/57cfc62db45e45e0077eb37299c889/6/test1_raw_1_fastqc.zip
+FastQC	all_sections	test1_raw_2	/workspace/nf-core-nfcoretest/work/3b/57cfc62db45e45e0077eb37299c889/7/test1_raw_2_fastqc.zip
+FastQC	all_sections	test2_trim_2	/workspace/nf-core-nfcoretest/work/3b/57cfc62db45e45e0077eb37299c889/11/test2_trim_2_fastqc.zip
+FastQC	all_sections	test2_trim_1	/workspace/nf-core-nfcoretest/work/3b/57cfc62db45e45e0077eb37299c889/10/test2_trim_1_fastqc.zip

@@ -1,0 +1,11 @@
+Sample	fastp_mqc_generalstats_fastp_pct_duplication	fastp_mqc_generalstats_fastp_after_filtering_q30_rate	fastp_mqc_generalstats_fastp_after_filtering_q30_bases	fastp_mqc_generalstats_fastp_filtering_result_passed_filter_reads	fastp_mqc_generalstats_fastp_after_filtering_gc_content	fastp_mqc_generalstats_fastp_pct_surviving	fastp_mqc_generalstats_fastp_pct_adapter	FastQC_mqc_generalstats_fastqc_percent_duplicates	FastQC_mqc_generalstats_fastqc_percent_gc	FastQC_mqc_generalstats_fastqc_avg_sequence_length	FastQC_mqc_generalstats_fastqc_median_sequence_length	FastQC_mqc_generalstats_fastqc_percent_fails	FastQC_mqc_generalstats_fastqc_total_sequences
+test1	9.0693	91.8486	234.279178	1.7618719999999999	41.3862	99.50649776065875	0.18197118507181143						
+test1_raw_1								36.38927068261141	41.0	144.8594913617341	151	18.181818181818183	0.885305
+test1_raw_2								35.531589543083754	41.0	144.85910957240725	151	9.090909090909092	0.885305
+test1_trim_1								36.43542683810812	41.0	144.840717146308	151	18.181818181818183	0.8809359999999999
+test1_trim_2								35.64962872366884	41.0	144.81253348710916	151	9.090909090909092	0.8809359999999999
+test2	0.0053853	100.0	109.12177899999999	0.47984	40.6683	99.38773312123547	31.738249695523574						
+test2_raw_1								4.937663534966191	41.0	251.0	251	9.090909090909092	0.241398
+test2_raw_2								3.7081806659444823	41.0	251.0	251	9.090909090909092	0.241398
+test2_trim_1								4.353559644691643	40.0	227.2482869289763	251	0.0	0.23992
+test2_trim_2								3.2934873184403415	40.0	227.5691313771257	251	0.0	0.23992

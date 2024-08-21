@@ -1,0 +1,4 @@
+Unable to find image 'quay.io/staphb/multiqc:1.22.3' locally
+1.22.3: Pulling from staphb/multiqc
+Digest: sha256:aefcc4c73e8ff5636c86b029c2cb4b56201c1e674d52c28d60f32d62f3470961
+Status: Downloaded newer image for quay.io/staphb/multiqc:1.22.3
